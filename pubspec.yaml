@@ -2,7 +2,7 @@ name: epub_viewer
 description: 
   'epub_viewer is an epub ebook reader that encapsulates the folioreader framework.'
 version: 0.1.9
-homepage: https://github.com/JideGuru/epub_viewer
+homepage: https://github.com/thecodebrothers/epub_viewer
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
