@@ -20,7 +20,8 @@ A new flutter plugin project.
 
   s.dependency 'Flutter'
   
-  s.dependency 'xxx'
+  s.dependency 'EpubViewerKit'
+# git: 'https://github.com/thecodebrothers/EpubViewerKit.git', :commit => '26be98f7a448f47e2ab845553fcce83e5dc4633a'
   s.ios.deployment_target = '9.0'
 
   
